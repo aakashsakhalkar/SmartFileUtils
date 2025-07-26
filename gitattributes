@@ -1,0 +1,5 @@
+docs/index.html linguist-documentation
+**/build/** linguist-vendored
+*.gradle linguist-generated
+*.gradle.kts linguist-generated
+*.yml linguist-generated
