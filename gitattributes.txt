@@ -1,0 +1,6 @@
+/build/** linguist-vendored
+/app/build/** linguist-vendored
+*.html linguist-documentation
+*.gradle linguist-generated
+*.gradle.kts linguist-generated
+*.yml linguist-generated
